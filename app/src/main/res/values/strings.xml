@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginAndRegistration</string>
+    <string name="password">Password</string>
+    <string name="usernameReg">Username</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="passwordReg">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+</resources>
