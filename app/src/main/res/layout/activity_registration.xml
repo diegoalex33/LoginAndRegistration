@@ -26,7 +26,6 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/username"
-        android:hintTextColor="#757575"
         android:inputType="textPersonName"
         android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/editText_registration_password"
